@@ -4,4 +4,3 @@ sentencepiece
 einops
 accelerate
 tiktoken
-lmdeploy[all]==0.3.0
